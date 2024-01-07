@@ -13,4 +13,8 @@
   <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
   <img align="center" alt="JAVASCRIPT" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img align="center" alt="TYPESCRIPT" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
-</div>
+</div><br><br>
+
+### Um pouco sobre mim
+
+ Iniciei minha jornada nesse na programação em março de 2022 e desde então tenho desenvolvido projetos Front End utilizando HTML, CSS e JavaScript. Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Faculdade Estácio e também faço um curso de desenvolvimento web na OneBitCode, sempre procurando conhecer novas linguagens de progrmação e me aprimorando.
