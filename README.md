@@ -15,9 +15,9 @@
   <img align="center" alt="TYPESCRIPT" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
   <img align="center" alt="GIT" src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white">
   <img align="center" alt="GITHUB" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+  <img align="center" alt="SASS" src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white">
 </div><br><br>
 
 ### Um pouco sobre mim
 
  Iniciei minha jornada nesse na programação em março de 2022 e desde então tenho desenvolvido projetos Front End utilizando HTML, CSS e JavaScript. Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Faculdade Estácio e também faço um curso de desenvolvimento web na OneBitCode, sempre procurando conhecer novas linguagens de progrmação e me aprimorando.
-
