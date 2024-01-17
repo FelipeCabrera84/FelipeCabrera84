@@ -20,4 +20,4 @@
 
 ### Um pouco sobre mim
 
- Iniciei minha jornada nesse na programação em março de 2022 e desde então tenho desenvolvido projetos Front End utilizando HTML, CSS e JavaScript. Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Faculdade Estácio e também faço um curso de desenvolvimento web na OneBitCode, sempre procurando conhecer novas linguagens de progrmação e me aprimorando.
+ Iniciei minha jornada na programação em março de 2022 e desde então tenho desenvolvido projetos Front End utilizando HTML, CSS e JavaScript. Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Faculdade Estácio e também faço um curso de desenvolvimento web na OneBitCode, sempre procurando conhecer novas linguagens de progrmação e me aprimorando.
