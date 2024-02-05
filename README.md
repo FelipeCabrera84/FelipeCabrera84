@@ -20,4 +20,8 @@
 
 ### Um pouco sobre mim
 
- Iniciei minha jornada na programação em março de 2022 e desde então tenho desenvolvido projetos Front End utilizando HTML, CSS e JavaScript. Atualmente estou cursando Análise e Desenvolvimento de Sistemas na Faculdade Estácio e também faço um curso de desenvolvimento web na OneBitCode, sempre procurando conhecer novas linguagens de progrmação e me aprimorando.
+Com uma sólida base em programação desde 2022, iniciei meu percurso na Alura, onde concluí o curso de Desenvolvimento Web. Atualmente, estou aprofundando meus conhecimentos como estudante do curso de Programação Web Full Stack na OneBitCode, enquanto simultaneamente busco minha graduação em Análise e Desenvolvimento de Sistemas na Universidade Estácio de Sá.
+
+Possuo habilidades técnicas em HTML, CSS, Sass, JavaScript, TypeScript e Bootstrap, demonstrando competência na construção e desenvolvimento de interfaces web. Minha dedicação constante aos estudos reflete meu comprometimento com a excelência e o aprimoramento contínuo.
+
+Estou entusiasmado em aplicar meu conhecimento em um ambiente desafiador, pronto para contribuir com minha paixão pela programação e meu compromisso com o aprendizado constante para impulsionar o sucesso da equipe e alcançar metas ambiciosas.
